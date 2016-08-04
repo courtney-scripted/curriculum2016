@@ -8,7 +8,7 @@ This project asks the students to create a webapp in which images appear based o
 This project should should take 2 classes to complete. Taking photos for the project will take a significant portion of time but should be seen as a fun activity and will help students learn how to upload and link local files.
 
 ##Teacher Notes & Pro Tips
-* Students will look forward to presentations on this project even they seem like they won't. This project allows for students to show of their personality.
+* Students will look forward to presentations on this project even if they seem like they won't. This project allows for students to show off their personality.
 * This project is similar to the activities completed earlier in this unit. Encourage students to reference their own code.
 
 <br>
